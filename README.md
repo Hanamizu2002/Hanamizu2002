@@ -13,7 +13,3 @@
 <a href="https://github-readme-stats.vercel.app/api?username=Hanamizu2002&count_private=true&show_icons=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hanamizu2002&count_private=true&show_icons=true" />
 </a>
-
-#### 🐍 contributions
-![](https://raw.githubusercontent.com/anzhihe/anzhihe/output/github-contribution-grid-snake.svg)
-
